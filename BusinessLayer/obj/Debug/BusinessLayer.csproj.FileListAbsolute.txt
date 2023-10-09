@@ -1,0 +1,15 @@
+C:\Users\emirt\OneDrive\Masaüstü\Mvc_Blog\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\emirt\OneDrive\Masaüstü\Mvc_Blog\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\emirt\OneDrive\Masaüstü\Mvc_Blog\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\emirt\OneDrive\Masaüstü\Mvc_Blog\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\emirt\OneDrive\Masaüstü\Mvc_Blog\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\emirt\OneDrive\Masaüstü\Mvc_Blog\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\emirt\OneDrive\Masaüstü\Mvc_Blog\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\emirt\OneDrive\Masaüstü\Mvc_Blog\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\emirt\OneDrive\Masaüstü\Mvc_Blog\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\emirt\OneDrive\Masaüstü\Mvc_Blog\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\emirt\OneDrive\Masaüstü\Mvc_Blog\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\emirt\OneDrive\Masaüstü\Mvc_Blog\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\emirt\OneDrive\Masaüstü\Mvc_Blog\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\emirt\OneDrive\Masaüstü\Mvc_Blog\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\emirt\OneDrive\Masaüstü\Mvc_Blog\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
