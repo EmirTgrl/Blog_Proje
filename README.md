@@ -33,7 +33,7 @@ Kullanıcılar blog gönderileri oluşturabilir, düzenleyebilir ve yayınlayabi
 
 ## 🚀 Kurulum Adımları
 
-1. Repositori'yi klonlayın:  
+1. Repository'i klonlayın:  
    `git clone https://github.com/kullaniciadi/blog-uygulamasi.git`
 
 2. Visual Studio ile projeyi açın.
