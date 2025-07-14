@@ -31,19 +31,6 @@ Kullanıcılar blog gönderileri oluşturabilir, düzenleyebilir ve yayınlayabi
 
 ---
 
-## 🚀 Kurulum Adımları
-
-1. Repository'i klonlayın:  
-   `git clone https://github.com/kullaniciadi/blog-uygulamasi.git`
-
-2. Visual Studio ile projeyi açın.
-
-3. `Web.config` veya `appsettings.json` dosyasında veritabanı bağlantı bilgilerini ayarlayın.
-
-4. Projeyi çalıştırın (F5 veya Ctrl+F5).
-
----
-
 # 📝 Simple Blog Application
 
 A simple and user-friendly blog platform where authors can write posts on any topic they want.  
@@ -74,16 +61,3 @@ Users can create, edit, and publish blog posts.
 - 🌐 ASP.NET (MVC / Core)
 - 🗃️ Microsoft SQL Server (MSSQL)
 - 🧩 Entity Framework
-
----
-
-## 🚀 Installation Steps
-
-1. Clone the repository:  
-   `git clone https://github.com/yourusername/simple-blog-app.git`
-
-2. Open the project in Visual Studio.
-
-3. Configure the database connection in `Web.config` or `appsettings.json`.
-
-4. Run the project (F5 or Ctrl+F5).
